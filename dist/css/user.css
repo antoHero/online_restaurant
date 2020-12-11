@@ -1,0 +1,52 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.front {
+	height: 50vh;
+	background-position: center;
+	background-size: cover !important;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Trebuchet MS", sans-serif;
+	background-color: grey;
+}
+
+.front .img_bg {
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.search-field {
+	height: 50px;
+	padding: 10px;
+}
+
+.service {
+	width: 400px;
+}
+
+.btn {
+	height: 50px;
+	width: 150px;
+	background: #f44336;
+	border: none;
+	color: #fff;
+}
+
+.form {
+	justify-content: center;
+}
+
+.home-text {
+	text-align: center;
+	color: #fff;
+	margin-bottom: 30px;
+	font-size: 45px;
+	letter-spacing: 2px;
+}
+
